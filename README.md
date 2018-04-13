@@ -2,7 +2,7 @@
 
 The aim of this assignment is to train a RNN (recurrent neural network) to synthesize English text (from Harry Potter snippets) character by character and to synthesize Donald Trump Tweets. This was approached is two methods: with a vanilla RNN and a LSTM (long short-term memory).
 
-Implemented in MATLAB. 
+Implemented in MATLAB from first principles. 
 
 ## Harry Potter Text
 
