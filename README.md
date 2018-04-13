@@ -1,4 +1,4 @@
-# DD2424 Deep Learning in Data Science - Assignment 4
+# KTH Deep Learning in Data Science - Assignment 4
 
 The aim of this assignment is to train a RNN (recurrent neural network) to synthesize English text (from Harry Potter snippets) character by character and to synthesize Donald Trump Tweets. This was approached is two methods: with a vanilla RNN and a LSTM (long short-term memory).
 
